@@ -1,0 +1,8 @@
+### 📎 Additional Files:
+
+```text
+streamlit
+transformers
+PyPDF2
+pillow
+pytesseract
